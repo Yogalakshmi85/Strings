@@ -5,5 +5,7 @@
 - 💡Longest Substring without repeating characters
 - 💡fizzbuzz
 - 💡Common prefix
+- 💡Grouping Anagrams
+- 💡Valid parentheses check
 
 ## Solving problems is good but solving them in optimized way is the best part.
