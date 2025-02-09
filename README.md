@@ -7,5 +7,8 @@
 - 💡Common prefix
 - 💡Grouping Anagrams
 - 💡Valid parentheses check
+- 💡Valid palindrome
+- 💡longest palindromic Substring
+- 💡count of palindromic Substring in a string
 
-## Solving problems is good but solving them in optimized way is the best part.
+## Solving problems is good but solving them in a optimized way is the best part.
